@@ -1,0 +1,39 @@
+{
+ "version": "0.4.0",
+ "tag": "v0.4.0",
+ "commit": "e9b4824e",
+ "published": "2026-11-09T12:13Z",
+ "files": [
+  {
+   "name": "Medici.exe",
+   "dir": "",
+   "sha256": "1049373c1658b6bb27f1547938b847aa8e1c1eda2d6851128fb339c52142e051",
+   "size": 37877408,
+   "zip": "Medici.exe-1049373c1658.locked"
+  },
+  {
+   "name": "Medici.pck",
+   "dir": "",
+   "sha256": "9a82a1b3d05743840c43d236d00eff3bbe2dd30e73d6534f7ce2cece2f4c90a9",
+   "size": 62148480,
+   "zip": "Medici.pck-9a82a1b3d057.locked"
+  },
+  {
+   "name": "libgodotsteam.windows.template_release.x86_64.dll",
+   "dir": "",
+   "sha256": "6535af56d325af0fff52dbb5de3703d110bb430fdef4e3026d7ece617270e530",
+   "size": 1252096,
+   "zip": "libgodotsteam.windows.template_release.x86_64.dll-6535af56d325.locked"
+  },
+  {
+   "name": "steam_api64.dll",
+   "dir": "",
+   "sha256": "8de54d32508e216c9135b8bf025749243d44e404c1c22a8e5fe35acecabe7a9c",
+   "size": 147200,
+   "zip": "steam_api64.dll-8de54d32508e.locked"
+  }
+ ],
+ "keys": {
+  "luca": "927d5c0fd4206cd8ae15ade1d34f810abc9909cf136c40e67593f0dd88826c34b7d360e96e9f13cd94cc8cffea0eb7b0d247b7e390f11d41bdac04cb68cc2ac2"
+ }
+}
