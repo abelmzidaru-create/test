@@ -1,0 +1,38 @@
+{
+ "version": "0.5.12",
+ "commit": "bc15900d",
+ "windows": {
+  "name": "Medici-Windows-0.5.12.zip",
+  "size": 114297036,
+  "sha256": "85139d5c4f34030633c0afaa2fb87d414ddf5ea0eaec201a5638908b0db131f4",
+  "parts": [
+   "windows-000.locked",
+   "windows-001.locked",
+   "windows-002.locked",
+   "windows-003.locked"
+  ]
+ },
+ "linux": {
+  "name": "Medici-Linux-0.5.12.tar.gz",
+  "size": 104581351,
+  "sha256": "06547a35fa35ccd10b0ed0a0837420b87031334580ec3eee96d8a45728bf762a",
+  "parts": [
+   "linux-000.locked",
+   "linux-001.locked",
+   "linux-002.locked",
+   "linux-003.locked"
+  ]
+ },
+ "mac": {
+  "name": "Medici-macOS-0.5.12.zip",
+  "size": 137473784,
+  "sha256": "cbe406b25a216a8336364c4c09cf86a82c7df07360e02b624713beea93e6ad1c",
+  "parts": [
+   "mac-000.locked",
+   "mac-001.locked",
+   "mac-002.locked",
+   "mac-003.locked",
+   "mac-004.locked"
+  ]
+ }
+}

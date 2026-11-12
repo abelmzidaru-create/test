@@ -1,0 +1,6 @@
+{"version": "0.5.12", "tag": "v0.5.12", "commit": "bc15900d", "published": "2026-11-12T00:55Z", "files": [
+{"name": "Medici.pck", "dir": "", "sha256": "e812879c87b59f0a80cc297c027420a2f8f7cca8e3d19968c6f429454d9e4a70", "size": 74838288, "zip": "Medici.pck-e812879c87b5.locked"},
+{"name": "Medici.x86_64", "dir": "", "sha256": "2cb27aee3f7fdf763d0ae16972f6975606959a071f4cd33f6ef1429eb8385049", "size": 28397184, "zip": "Medici.x86_64-2cb27aee3f7f.locked"},
+{"name": "libgodotsteam.linux.template_release.x86_64.so", "dir": "", "sha256": "d7fbfee849169a4bfb5e5b7d0bc4fc90223c121bf46d69dfe379b54d865ca8cf", "size": 1425200, "zip": "libgodotsteam.linux.template_release.x86_64.so-d7fbfee84916.locked"},
+{"name": "libsteam_api.so", "dir": "", "sha256": "659127fd3c36788162149006efb607ae24c08b7264259c7af52c806fa40c2b4f", "size": 123728, "zip": "libsteam_api.so-659127fd3c36.locked"}
+]}
