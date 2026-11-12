@@ -1,0 +1,6 @@
+{"version": "0.5.13", "tag": "v0.5.13", "commit": "e38245a4", "published": "2026-11-12T17:35Z", "files": [
+{"name": "House of Florins- The Medici Bank", "dir": "MacOS", "sha256": "580239b018e43dfceb38e2ad95ba841bddd323108815e60464e45683dee78bb7", "size": 60338768, "zip": "House_of_Florins-_The_Medici_Bank-580239b018e4.locked"},
+{"name": "House of Florins- The Medici Bank.pck", "dir": "Resources", "sha256": "6ecbb6d8e8a631abb983a6335ebd7db9bc02e1cb758fedd08052ac47fb1387a2", "size": 75566640, "zip": "House_of_Florins-_The_Medici_Bank.pck-6ecbb6d8e8a6.locked"},
+{"name": "libgodotsteam.macos.template_release.universal.dylib", "dir": "Frameworks", "sha256": "1b95d88962a5c056b1d51c6f848e7ed6c9e503a49c7c6caf82689ac61c33b87e", "size": 1783504, "zip": "libgodotsteam.macos.template_release.universal.dylib-1b95d88962a5.locked"},
+{"name": "libsteam_api.dylib", "dir": "Frameworks", "sha256": "04006d172966cef20972564ee8fc77b060374de06d41efafe190bc64395941a6", "size": 100960, "zip": "libsteam_api.dylib-04006d172966.locked"}
+]}
