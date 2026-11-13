@@ -1,0 +1,37 @@
+{
+ "version": "0.5.14",
+ "tag": "v0.5.14",
+ "commit": "f4adfa42",
+ "published": "2026-11-13T01:26Z",
+ "files": [
+  {
+   "name": "Medici.exe",
+   "dir": "",
+   "sha256": "c4e4e71302bb3f077ccf9951e0e36cec90bc5cb06ce1a7935fb8d1b269f02451",
+   "size": 38046864,
+   "zip": "Medici.exe-c4e4e71302bb.locked"
+  },
+  {
+   "name": "Medici.pck",
+   "dir": "",
+   "sha256": "7fc78594a8ae3a3be7cd270d9e4a2e2be4b50feec93f4f5c7989b6ada063ab52",
+   "size": 75659184,
+   "zip": "Medici.pck-7fc78594a8ae.locked"
+  },
+  {
+   "name": "libgodotsteam.windows.template_release.x86_64.dll",
+   "dir": "",
+   "sha256": "6535af56d325af0fff52dbb5de3703d110bb430fdef4e3026d7ece617270e530",
+   "size": 1263712,
+   "zip": "libgodotsteam.windows.template_release.x86_64.dll-6535af56d325.locked"
+  },
+  {
+   "name": "steam_api64.dll",
+   "dir": "",
+   "sha256": "8de54d32508e216c9135b8bf025749243d44e404c1c22a8e5fe35acecabe7a9c",
+   "size": 147664,
+   "zip": "steam_api64.dll-8de54d32508e.locked"
+  }
+ ],
+ "keys": {}
+}
